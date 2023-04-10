@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410041** |
+| Nama Lengkap | **Hanifah Amaliya** |
 | Kelas | TI-4A |
